@@ -7,7 +7,7 @@ class Solution {
              if(senate.charAt(i) == 'R') rad.offer(i);
              else dire.offer(i);
         }
-        while( !(rad.isEmpty() || dire.isEmpty())){
+        while( !rad.isEmpty() && !dire.isEmpty()){
             int r = rad.poll();
             int d = dire.poll();
             if( r< d){
