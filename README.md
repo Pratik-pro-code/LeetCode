@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pratik-pro-code/LeetCode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Pratik-pro-code/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pratik-pro-code/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pratik-pro-code/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pratik-pro-code/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
