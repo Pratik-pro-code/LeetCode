@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratik-pro-code/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pratik-pro-code/LeetCode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/Pratik-pro-code/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pratik-pro-code/LeetCode/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/Pratik-pro-code/LeetCode/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratik-pro-code/LeetCode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Pratik-pro-code/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
